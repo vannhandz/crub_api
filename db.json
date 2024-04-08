@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "fullname": "tu1",
+      "phone": "0905123456",
+      "email": "tu@gmail.com",
+      "age": "22",
+      "gender": "false"
+    },
+    {
+      "fullname": "tuan",
+      "phone": "0909555666",
+      "email": "tuan@gmail.com",
+      "age": "33",
+      "gender": "true",
+      "id": "4"
+    },
+    {
+      "id": "620d",
+      "fullname": "nhan",
+      "phone": "077777",
+      "email": "nhan@gmail.com",
+      "age": "20",
+      "gender": "true"
+    },
+    {
+      "id": "0767",
+      "fullname": "test1",
+      "phone": "077778",
+      "email": "nhan@gmail.com",
+      "age": "30",
+      "gender": "true"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
